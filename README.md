@@ -1,3 +1,13 @@
+---
+title: Web-to-APK Pro
+emoji: 📱
+colorFrom: indigo
+colorTo: purple
+sdk: docker
+pinned: false
+app_port: 7860
+---
+
 # Web-to-APK Converter (Tokyo Night Pro)
 
 A modern, lightweight web application to convert websites into Android APK projects.
