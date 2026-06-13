@@ -1,0 +1,19 @@
+{
+  "name": "web-to-apk-converter",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "formidable": "^3.5.4",
+    "pngjs": "^7.0.0"
+  },
+  "description": "",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
